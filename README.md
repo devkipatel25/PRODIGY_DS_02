@@ -1,6 +1,6 @@
-# 🎬 Netflix Movies Dataset - Exploratory Data Analysis (EDA)
+# Netflix Movies Dataset - Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 This project is part of the **Prodigy InfoTech Data Science Internship - Task 2**.
 
 The objective is to perform **Exploratory Data Analysis (EDA)** on a Netflix Movies dataset to understand movie trends, popularity, and genre distribution using Python.
@@ -66,7 +66,7 @@ The following preprocessing steps were performed:
 PRODIGY_DS_02
 │
 ├── dataset/
-│   └── netflix_movies.csv
+│   └── netflix_movies_dataset.txt
 │
 ├── images/
 │   ├── popularity_vs_release_date.png
